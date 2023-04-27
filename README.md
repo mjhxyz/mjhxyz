@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-![Mao's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjhxyz&count_private=true&show_icons=true&theme=dracula)
+<a href="https://github.com/mjhxyz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mjhxyz&count_private=true&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/mjhxyz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjhxyz&hide=javascript,html,css,typescript" />
+</a>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjhxyz&hide=javascript,html,css,typescript)]()
 </br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mjhxyz/mjhxyz/output/github-contribution-grid-snake-dark.svg">
