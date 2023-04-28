@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <a href="https://github.com/mjhxyz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mjhxyz&count_private=true&show_icons=true&theme=dracula" />
+  <img align="center" src="https://stat.mjhxyz.top/api?username=mjhxyz&count_private=true&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/mjhxyz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjhxyz&hide=javascript,html,css,typescript" />
+  <img align="center" src="https://stat.mjhxyz.top/api/top-langs/?username=mjhxyz&hide=javascript,html,css,typescript" />
 </a>
 
 </br>
@@ -15,10 +15,10 @@
 </picture>
 </br>
 <a href="https://github.com/mjhxyz/pixelpotion">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mjhxyz&repo=pixelpotion" />
+  <img align="center" src="https://stat.mjhxyz.top/api/pin/?username=mjhxyz&repo=pixelpotion" />
 </a>
 <a href="https://github.com/mjhxyz/byte_tweaker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mjhxyz&repo=byte_tweaker" />
+  <img align="center" src="https://stat.mjhxyz.top/api/pin/?username=mjhxyz&repo=byte_tweaker" />
 </a>
 
 
