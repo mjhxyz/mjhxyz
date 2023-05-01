@@ -32,6 +32,12 @@
 <a href="https://github.com/mjhxyz/byte_tweaker">
   <img align="center" src="https://stat.mjhxyz.top/api/pin/?username=mjhxyz&repo=byte_tweaker" />
 </a>
+<br/><br/>
+<a href="https://https://github.com/mjhxyz/vanish-vault">
+  <img align="center" src="https://stat.mjhxyz.top/api/pin/?username=mjhxyz&repo=vanish-vault" />
+</a>
+
+
 
 
 
